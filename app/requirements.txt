@@ -2,3 +2,4 @@ streamlit
 tensorflow
 Pillow
 opencv-python
+skimage
